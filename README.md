@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Ethan, a software engineer based in Seattle.
+
+I love turning random shower thoughts into working apps. Some of them even survive past the first weekend.
+
+My go-to stack is Java on the backend, with React and TypeScript on the front.
+
+I'm currently expanding my portfolio and sharpening my skills, but the project I am most proud of is Bull!
+
 <!--
 **ekc395/ekc395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
