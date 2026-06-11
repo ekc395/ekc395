@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there! 🙌
 I'm Ethan, a software engineer based in Seattle.
 
 I love turning random shower thoughts into working apps. Some of them even survive past the first weekend.
