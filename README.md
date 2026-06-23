@@ -6,7 +6,7 @@ I love turning random shower thoughts into working apps. Some of them even survi
 
 My go-to stack is Java on the backend, with React and TypeScript on the front.
 
-I'm currently expanding my portfolio and sharpening my skills, but the project I am most proud of is Bull!
+I'm currently expanding my portfolio and sharpening my skills, but the project I've put the most time into is Bull!
 
 <!--
 **ekc395/ekc395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
