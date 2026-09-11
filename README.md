@@ -1,4 +1,4 @@
-### Hi there! 🙌
+### Hi there! 👋
 
 I'm Ethan, a software engineer based in Seattle.
 
